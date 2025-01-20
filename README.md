@@ -1,54 +1,149 @@
-<header>
+# 내란 타임라인
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+▲2024년 12월 3일
 
-# GitHub Pages
+-오후 10시 30분 윤 대통령 ‘비상계엄’ 선포
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+▲2024년 12월 4일
 
-</header>
+-오전 1시 2분 국회, ‘계엄 해제 결의안’ 재석 190명 전원 찬성 가결, 비상계엄 해제
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+-더불어민주당·조국혁신당 등 야 6당 윤 대통령 1차 탄핵소추안 제출
 
-## Step 1: Enable GitHub Pages
+▲2024년 12월 7일
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+-윤 대통령 1차 탄핵소추안 의결정족수 미달로 표결 무산
 
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+▲2024년 12월 8일
 
-### :keyboard: Activity: Enable GitHub Pages
+-검찰 특수본, 윤 대통령 내란 혐의 피의자로 입건
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
+▲2024년 12월 9일
 
-<footer>
+-공수처·법무부, 윤 대통령 출국금지 신청
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+▲2024년 12월 11일
 
----
+-검찰 특수본, 윤 대통령에게 15일 1차 출석 통보
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+▲2024년 12월 12일
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+-야 6당, 윤석열 대통령 2차 탄핵소추안 국회 제출
 
-</footer>
+▲2024년 12월 14일
+
+-윤 대통령 2차 탄핵소추안 국회 가결, 헌법재판소에 탄핵소추 의결서 접수
+
+▲2024년 12월 15일
+
+-윤 대통령, 검찰 특수본 1차 출석 요구 불응
+
+▲2024년 12월 16일
+
+-경찰, 윤 대통령 내란 혐의 수사 공수처로 이첩
+
+-검찰 특수본, 윤 대통령에게 21일 2차 출석 통보
+
+-공수처, 윤 대통령에게 18일 1차 출석 통보
+
+▲2024년 12월 18일
+
+-윤 대통령, 공수처 1차 출석 요구 불응
+
+-검찰, 윤 대통령 내란 혐의 수사 공수처로 이첩
+
+▲2024년 12월 20일
+
+-공수처, 윤 대통령에게 25일 2차 출석 통보
+
+-헌재, 탄핵심판 서류 20일 송달 간주
+
+▲2024년 12월 25일
+
+-윤 대통령, 공수처 2차 출석 요구 불응
+
+▲2024년 12월 26일
+
+-공수처, 윤 대통령에게 29일 3차 출석 통보
+
+▲2024년 12월 27일
+
+-헌재 윤 대통령 탄핵심판 1차 변론준비기일
+
+▲2024년 12월 29일
+
+-윤 대통령, 공수처 3차 출석 요구 불응
+
+▲2024년 12월 30일
+
+-공수처, 서울서부지법에 윤 대통령 체포영장 청구
+
+▲2024년 12월 31일
+
+-서울서울지법, 윤 대통령 체포영장·압수수색영장 발부
+
+▲2025년 1월 3일
+
+-공수처, 윤 대통령 체포영장 집행 1차 시도 실패
+
+▲2025년 1월 6일
+
+-공수처, 서울서부지법에 윤 대통령 체포영장 기한 연장 청구
+
+▲2025년 1월 7일
+
+-서울서부지법, 윤석열 대통령 체포영장·압수수색영장 발부
+
+▲2025년 1월 12일
+
+-윤 대통령 변호인단, 공수처에 선임계 제출
+
+▲2025년 1월 13일
+
+-공수처, 국방부·대통령경호처에 체포영장 집행 협조 공문 발송
+
+▲2025년 1월 14일
+
+-윤 대통령, 헌재 탄핵심판 첫 변론 불출석
+
+-공수처·경찰·경호처, 2차 체포영장 집행 관련 3자 회동
+
+▲2025년 1월 15일
+
+-공수처, 윤석열 대통령 체포 후 8시간 20분간 조사
+
+-윤 대통령, 서울구치소에 구금
+
+-윤 대통령 측, 서울중앙지법에 체포적부심사 청구
+
+▲2025년 1월 16일
+
+-윤 대통령, 공수처 조사·헌재 2회 변론·체포적부심 불출석
+
+-서울중앙지법, 윤석열 대통령 체포적부심 기각 결정
+
+▲2025년 1월 17일
+
+-윤 대통령, 공수처 조사 불출석
+
+-공수처, 서울서부지법에 윤석열 대통령 구속영장 청구
+
+▲2025년 1월 18일
+
+-오후 1시 25분│윤 대통령, 서울구치소에서 서울서부지법으로 출발
+
+-오후 2시 00분│서울서부지법, 윤 대통령 ‘내란 우두머리’ 혐의 구속영장 실질심사 시작
+
+-오후 5시 20분│서울서부지법, 구속영장 실질심사 휴정
+
+-오후 5시 40분│서울서부지법, 구속영장 실질심사 재개
+
+-오후 6시 50분│서울서부지법, 구속영장 실질심사 종료
+
+-오후 7시 35분│윤 대통령, 서울구치소로 출발
+
+-오후 8시 02분│윤 대통령, 서울구치소 도착
+
+▲2025년 1월 19일
+
+-오전 2시 50분│서울서부지법, 윤 대통령 구속영장 발부
